@@ -1,8 +1,8 @@
 <h1 align="right">
-📄<br>UX/CX Test V1.0
+📄<br>BackEnd Test V1.0
 </h1>
 
-## 📚 UX/CX Test
+## 📚 BackEnd Test
 
 > This test is divided into two parts:
 
