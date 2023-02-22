@@ -193,120 +193,78 @@
 
 # :speaking_head: Part II - Django 
 
-:blue_book: <strong><b>92)</b></strong> Explain Django Architecture?
+:blue_book: <strong><b>1)</b></strong> Explain Django Architecture?
 
-:blue_book: <strong><b>93)</b></strong> Explain the django project directory structure?
+:blue_book: <strong><b>2)</b></strong> Explain the django project directory structure?
 
-:blue_book: <strong><b>94)</b></strong> 
+:blue_book: <strong><b>3)</b></strong> What are models in Django?
 
-:blue_book: <strong><b>95)</b></strong> 
+:blue_book: <strong><b>4)</b></strong> What are templates in Django or Django template language?
 
-:blue_book: <strong><b>96)</b></strong> 
+:blue_book: <strong><b>5)</b></strong> What are views in Django?
 
-:blue_book: <strong><b>97)</b></strong> 
+:blue_book: <strong><b>6)</b></strong> What is Django ORM?
 
-:blue_book: <strong><b>98)</b></strong> 
+:blue_book: <strong><b>7)</b></strong> Define static files and explain their uses?
 
-:blue_book: <strong><b>99)</b></strong> 
+:blue_book: <strong><b>8)</b></strong> What is Django Rest Framework(DRF)?
 
-:blue_book: <strong><b>100)</b></strong> 
+:blue_book: <strong><b>9)</b></strong> What is django-admin and manage.py and explain its commands?
 
-:blue_book: <strong><b>101)</b></strong> 
+:blue_book: <strong><b>10)</b></strong> What is Jinja templating?
 
-:blue_book: <strong><b>102)</b></strong> 
+:blue_book: <strong><b>11)</b></strong> What are Django URLs?
 
-:blue_book: <strong><b>103)</b></strong> 
+:blue_book: <strong><b>12)</b></strong> What is the difference between a project and an app in Django?
 
-:blue_book: <strong><b>104)</b></strong> 
+:blue_book: <strong><b>13)</b></strong> What are different model inheritance styles in the Django?
 
-:blue_book: <strong><b>105)</b></strong> 
+:blue_book: <strong><b>14)</b></strong> What are Django Signals?
 
-:blue_book: <strong><b>106)</b></strong> 
+:blue_book: <strong><b>15)</b></strong> Explain the caching strategies in the Django?
 
-:blue_book: <strong><b>107)</b></strong> 
+:blue_book: <strong><b>16)</b></strong> Explain user authentication in Django?
 
-:blue_book: <strong><b>108)</b></strong> 
+:blue_book: <strong><b>17)</b></strong> How to configure static files?
 
-:blue_book: <strong><b>109)</b></strong> 
+:blue_book: <strong><b>18)</b></strong> Explain Django Response lifecycle?
 
-:blue_book: <strong><b>110)</b></strong> 
+:blue_book: <strong><b>19)</b></strong> What databases are supported by Django?
 
-:blue_book: <strong><b>111)</b></strong> 
+:blue_book: <strong><b>20)</b></strong> What's the use of a session framework?
 
-:blue_book: <strong><b>112)</b></strong> 
+:blue_book: <strong><b>21)</b></strong> What’s the use of Middleware in Django?
 
-:blue_book: <strong><b>113)</b></strong> 
+:blue_book: <strong><b>22)</b></strong> What is context in the Django?
 
-:blue_book: <strong><b>114)</b></strong> 
+:blue_book: <strong><b>23)</b></strong> What is django.shortcuts.render function?
 
-:blue_book: <strong><b>115)</b></strong> 
+:blue_book: <strong><b>24)</b></strong> What’s the significance of the settings.py file?
 
-:blue_book: <strong><b>116)</b></strong> 
+:blue_book: <strong><b>25)</b></strong> How to view all items in the Model?
 
-:blue_book: <strong><b>117)</b></strong> 
+:blue_book: <strong><b>26)</b></strong> How to filter items in the Model?
 
-:blue_book: <strong><b>118)</b></strong> 
+:blue_book: <strong><b>27)</b></strong> How to use file-based sessions?
 
-:blue_book: <strong><b>119)</b></strong> 
+:blue_book: <strong><b>28)</b></strong> What is mixin?
 
-:blue_book: <strong><b>120)</b></strong> 
+:blue_book: <strong><b>29)</b></strong> What is Django Field Class?
 
-:blue_book: <strong><b>121)</b></strong> 
+:blue_book: <strong><b>30)</b></strong> Why is permanent redirection not a good option?
 
-:blue_book: <strong><b>122)</b></strong> 
+:blue_book: <strong><b>31)</b></strong> Difference between Django OneToOneField and ForeignKey Field?
 
-:blue_book: <strong><b>123)</b></strong> 
+:blue_book: <strong><b>32)</b></strong> How can you combine multiple QuerySets in a View?
 
-:blue_book: <strong><b>124)</b></strong> 
+:blue_book: <strong><b>33)</b></strong> How to get a particular item in the Model?
 
-:blue_book: <strong><b>125)</b></strong> 
+:blue_book: <strong><b>34)</b></strong> How to obtain the SQL query from the queryset?
 
-:blue_book: <strong><b>126)</b></strong> 
+:blue_book: <strong><b>35)</b></strong> What are the ways to customize the functionality of the Django admin interface?
 
-:blue_book: <strong><b>127)</b></strong> 
+:blue_book: <strong><b>36)</b></strong> Difference between select_related and prefetch_related?
 
-:blue_book: <strong><b>128)</b></strong> 
+:blue_book: <strong><b>37)</b></strong> Explain Q objects in Django ORM?
 
-:blue_book: <strong><b>129)</b></strong> 
-
-:blue_book: <strong><b>130)</b></strong> 
-
-:blue_book: <strong><b>131)</b></strong> 
-
-:blue_book: <strong><b>132)</b></strong> 
-
-:blue_book: <strong><b>133)</b></strong> 
-
-:blue_book: <strong><b>134)</b></strong> 
-
-:blue_book: <strong><b>135)</b></strong> 
-
-:blue_book: <strong><b>136)</b></strong> 
-
-:blue_book: <strong><b>137)</b></strong> 
-
-:blue_book: <strong><b>138)</b></strong> 
-
-:blue_book: <strong><b>139)</b></strong> 
-
-:blue_book: <strong><b>140)</b></strong> 
-
-:blue_book: <strong><b>141)</b></strong> 
-
-:blue_book: <strong><b>142)</b></strong> 
-
-:blue_book: <strong><b>143)</b></strong> 
-
-:blue_book: <strong><b>144)</b></strong> 
-
-:blue_book: <strong><b>145)</b></strong> 
-
-:blue_book: <strong><b>146)</b></strong> 
-
-:blue_book: <strong><b>147)</b></strong> 
-
-:blue_book: <strong><b>148)</b></strong> 
-
-:blue_book: <strong><b>149)</b></strong> 
-
-:blue_book: <strong><b>150)</b></strong> 
+:blue_book: <strong><b>38)</b></strong> What are Django exceptions?
