@@ -7,6 +7,8 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Good luck !
 
+# :speaking_head: Part I - Python 
+
 :blue_book: <strong><b>1)</b></strong> What is Python? What are the benefits of using Python
 
 :blue_book: <strong><b>2)</b></strong> What is a dynamically typed language?
@@ -189,8 +191,7 @@
 
 :blue_book: <strong><b>91)</b></strong> How will you access the dataset of a publicly shared spreadsheet in CSV format stored in Google Drive?
 
-
-
+# :speaking_head: Part II - Django 
 
 :blue_book: <strong><b>92)</b></strong> 
 
