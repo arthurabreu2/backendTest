@@ -101,56 +101,217 @@
 
 :blue_book: <strong><b>47)</b></strong> What is init method in python?
 
-:blue_book: <strong><b>48)</b></strong>
+:blue_book: <strong><b>48)</b></strong> 
 
-:blue_book: <strong><b>49)</b></strong>
+:blue_book: <strong><b>49)</b></strong> 
 
-:blue_book: <strong><b>50)</b></strong>
+:blue_book: <strong><b>50)</b></strong> 
 
-:blue_book: <strong><b>51)</b></strong>
+:blue_book: <strong><b>51)</b></strong> 
 
-:blue_book: <strong><b>52)</b></strong>
+:blue_book: <strong><b>52)</b></strong> 
 
-:blue_book: <strong><b>53)</b></strong>
+:blue_book: <strong><b>53)</b></strong> 
 
-:blue_book: <strong><b>54)</b></strong>
+:blue_book: <strong><b>54)</b></strong> 
 
-:blue_book: <strong><b>55)</b></strong>
+:blue_book: <strong><b>55)</b></strong> 
 
-:blue_book: <strong><b>56)</b></strong>
+:blue_book: <strong><b>56)</b></strong> 
 
-:blue_book: <strong><b>57)</b></strong>
+:blue_book: <strong><b>57)</b></strong> 
 
-:blue_book: <strong><b>58)</b></strong>
+:blue_book: <strong><b>58)</b></strong> 
 
-:blue_book: <strong><b>59)</b></strong>
+:blue_book: <strong><b>59)</b></strong> 
 
-:blue_book: <strong><b>60)</b></strong>
+:blue_book: <strong><b>60)</b></strong> 
 
-:blue_book: <strong><b>61)</b></strong>
+:blue_book: <strong><b>61)</b></strong> 
 
-:blue_book: <strong><b>62)</b></strong>
+:blue_book: <strong><b>62)</b></strong> 
 
-:blue_book: <strong><b>63)</b></strong>
+:blue_book: <strong><b>63)</b></strong> 
 
-:blue_book: <strong><b>64)</b></strong>
+:blue_book: <strong><b>64)</b></strong> 
 
-:blue_book: <strong><b>65)</b></strong>
+:blue_book: <strong><b>65)</b></strong> 
 
-:blue_book: <strong><b>66)</b></strong>
+:blue_book: <strong><b>66)</b></strong> 
 
-:blue_book: <strong><b>67)</b></strong>
+:blue_book: <strong><b>67)</b></strong> 
 
-:blue_book: <strong><b>68)</b></strong>
+:blue_book: <strong><b>68)</b></strong> 
 
-:blue_book: <strong><b>69)</b></strong>
+:blue_book: <strong><b>69)</b></strong> 
 
-:blue_book: <strong><b>70)</b></strong>
+:blue_book: <strong><b>70)</b></strong> 
 
-:blue_book: <strong><b>71)</b></strong>
+:blue_book: <strong><b>71)</b></strong> 
 
-:blue_book: <strong><b>72)</b></strong>
+:blue_book: <strong><b>72)</b></strong> 
 
-:blue_book: <strong><b>72)</b></strong>
+:blue_book: <strong><b>72)</b></strong> 
 
-:blue_book: <strong><b>73)</b></strong>
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
+:blue_book: <strong><b>73)</b></strong> 
+
