@@ -101,83 +101,81 @@
 
 :blue_book: <strong><b>47)</b></strong> What is init method in python?
 
-:blue_book: <strong><b>48)</b></strong> 
+:blue_book: <strong><b>48)</b></strong> How will you check if a class is a child of another class?
 
-:blue_book: <strong><b>49)</b></strong> 
+:blue_book: <strong><b>49)</b></strong> What do you know about pandas?
 
-:blue_book: <strong><b>50)</b></strong> 
+:blue_book: <strong><b>50)</b></strong> Define pandas dataframe.
 
-:blue_book: <strong><b>51)</b></strong> 
+:blue_book: <strong><b>51)</b></strong> How will you combine different pandas dataframes?
 
-:blue_book: <strong><b>52)</b></strong> 
+:blue_book: <strong><b>52)</b></strong> Can you create a series from the dictionary object in pandas?
 
-:blue_book: <strong><b>53)</b></strong> 
+:blue_book: <strong><b>53)</b></strong> How will you identify and deal with missing values in a dataframe?
 
-:blue_book: <strong><b>54)</b></strong> 
+:blue_book: <strong><b>54)</b></strong> What do you understand by reindexing in pandas?
 
-:blue_book: <strong><b>55)</b></strong> 
+:blue_book: <strong><b>55)</b></strong> How to add new column to pandas dataframe?
 
-:blue_book: <strong><b>56)</b></strong> 
+:blue_book: <strong><b>56)</b></strong> How will you delete indices, rows and columns from a dataframe?
 
-:blue_book: <strong><b>57)</b></strong> 
+:blue_book: <strong><b>57)</b></strong> Can you get items of series A that are not available in another series B?
 
-:blue_book: <strong><b>58)</b></strong> 
+:blue_book: <strong><b>58)</b></strong> How will you get the items that are not common to both the given series A and B?
 
-:blue_book: <strong><b>59)</b></strong> 
+:blue_book: <strong><b>59)</b></strong> While importing data from different sources, can the pandas library recognize dates?
 
-:blue_book: <strong><b>60)</b></strong> 
+:blue_book: <strong><b>60)</b></strong> What do you understand by NumPy?
 
-:blue_book: <strong><b>61)</b></strong> 
+:blue_book: <strong><b>61)</b></strong> How are NumPy arrays advantageous over python lists?
 
-:blue_book: <strong><b>62)</b></strong> 
+:blue_book: <strong><b>62)</b></strong> What are the steps to create 1D, 2D and 3D arrays?
 
-:blue_book: <strong><b>63)</b></strong> 
+:blue_book: <strong><b>63)</b></strong> You are given a numpy array and a new column as inputs. How will you delete the second column and replace the column with a new column value?
 
-:blue_book: <strong><b>64)</b></strong> 
+:blue_book: <strong><b>64)</b></strong> How will you efficiently load data from a text file?
 
-:blue_book: <strong><b>65)</b></strong> 
+:blue_book: <strong><b>65)</b></strong> How will you read CSV data into an array in NumPy?
 
-:blue_book: <strong><b>66)</b></strong> 
+:blue_book: <strong><b>66)</b></strong> How will you sort the array based on the Nth column?
 
-:blue_book: <strong><b>67)</b></strong> 
+:blue_book: <strong><b>67)</b></strong> How will you find the nearest value in a given numpy array?
 
-:blue_book: <strong><b>68)</b></strong> 
+:blue_book: <strong><b>68)</b></strong> How will you reverse the numpy array using one line of code?
 
-:blue_book: <strong><b>69)</b></strong> 
+:blue_book: <strong><b>69)</b></strong> How will you find the shape of any given NumPy array?
 
-:blue_book: <strong><b>70)</b></strong> 
+:blue_book: <strong><b>70)</b></strong> Differentiate between a package and a module in python.
 
-:blue_book: <strong><b>71)</b></strong> 
+:blue_book: <strong><b>71)</b></strong> What are some of the most commonly used built-in modules in Python?
 
-:blue_book: <strong><b>72)</b></strong> 
+:blue_book: <strong><b>72)</b></strong> What are lambda functions?
 
-:blue_book: <strong><b>72)</b></strong> 
+:blue_book: <strong><b>73)</b></strong> How can you generate random numbers?
 
-:blue_book: <strong><b>73)</b></strong> 
+:blue_book: <strong><b>74)</b></strong> Can you easily check if all characters in the given string is alphanumeric?
 
-:blue_book: <strong><b>74)</b></strong> 
+:blue_book: <strong><b>75)</b></strong> What are the differences between pickling and unpickling?
 
-:blue_book: <strong><b>75)</b></strong> 
+:blue_book: <strong><b>76)</b></strong> Define GIL.
 
-:blue_book: <strong><b>76)</b></strong> 
+:blue_book: <strong><b>77)</b></strong> Define PYTHONPATH.
 
-:blue_book: <strong><b>77)</b></strong> 
+:blue_book: <strong><b>78)</b></strong> Define PIP.
 
-:blue_book: <strong><b>78)</b></strong> 
+:blue_book: <strong><b>79)</b></strong> Are there any tools for identifying bugs and performing static analysis in python?
 
-:blue_book: <strong><b>79)</b></strong> 
+:blue_book: <strong><b>80)</b></strong> Differentiate between deep and shallow copies.
 
-:blue_book: <strong><b>80)</b></strong> 
+:blue_book: <strong><b>81)</b></strong> What is main function in python? How do you invoke it?
 
-:blue_book: <strong><b>81)</b></strong> 
+:blue_book: <strong><b>82)</b></strong> Write python function which takes a variable number of arguments.
 
-:blue_book: <strong><b>82)</b></strong> 
+:blue_book: <strong><b>83)</b></strong> WAP (Write a program) which takes a sequence of numbers and check if all numbers are unique.
 
-:blue_book: <strong><b>83)</b></strong> 
+:blue_book: <strong><b>84)</b></strong> Write a program for counting the number of every character of a given text file.
 
-:blue_book: <strong><b>84)</b></strong> 
-
-:blue_book: <strong><b>85)</b></strong> 
+:blue_book: <strong><b>85)</b></strong> Write a program to check and return the pairs of a given array A whose sum value is equal to a target value N.
 
 :blue_book: <strong><b>86)</b></strong> 
 
