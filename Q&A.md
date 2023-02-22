@@ -193,9 +193,9 @@
 
 # :speaking_head: Part II - Django 
 
-:blue_book: <strong><b>92)</b></strong> 
+:blue_book: <strong><b>92)</b></strong> Explain Django Architecture?
 
-:blue_book: <strong><b>93)</b></strong> 
+:blue_book: <strong><b>93)</b></strong> Explain the django project directory structure?
 
 :blue_book: <strong><b>94)</b></strong> 
 
