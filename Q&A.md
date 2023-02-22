@@ -47,57 +47,59 @@
 
 :blue_book: <strong><b>20)</b></strong> What are Python namespaces? Why are they used?
 
-:blue_book: <strong><b>21)</b></strong> 
+:blue_book: <strong><b>21)</b></strong> What is Scope Resolution in Python?
 
-:blue_book: <strong><b>22)</b></strong> 
+:blue_book: <strong><b>22)</b></strong> What are decorators in Python?
 
-:blue_book: <strong><b>23)</b></strong> 
+:blue_book: <strong><b>23)</b></strong> What are Dict and List comprehensions?
 
-:blue_book: <strong><b>24)</b></strong> 
+:blue_book: <strong><b>24)</b></strong> What is lambda in Python? Why is it used?
 
-:blue_book: <strong><b>25)</b></strong> 
+:blue_book: <strong><b>25)</b></strong> How do you copy an object in Python?
 
-:blue_book: <strong><b>26)</b></strong> 
+:blue_book: <strong><b>26)</b></strong> What is the difference between xrange and range in Python?
 
-:blue_book: <strong><b>27)</b></strong> 
+:blue_book: <strong><b>27)</b></strong> What is pickling and unpickling?
 
-:blue_book: <strong><b>28)</b></strong> 
+:blue_book: <strong><b>28)</b></strong> What are generators in Python?
 
-:blue_book: <strong><b>29)</b></strong> 
+:blue_book: <strong><b>29)</b></strong> What is PYTHONPATH in Python?
 
-:blue_book: <strong><b>30)</b></strong> 
+:blue_book: <strong><b>30)</b></strong> What is the use of help() and dir() functions?
 
-:blue_book: <strong><b>31)</b></strong> 
+:blue_book: <strong><b>31)</b></strong> What is the difference between .py and .pyc files?
 
-:blue_book: <strong><b>32)</b></strong> 
+:blue_book: <strong><b>32)</b></strong> How Python is interpreted?
 
-:blue_book: <strong><b>33)</b></strong> 
+:blue_book: <strong><b>33)</b></strong> How are arguments passed by value or by reference in python?
 
-:blue_book: <strong><b>34)</b></strong> 
+:blue_book: <strong><b>34)</b></strong> What are iterators in Python?
 
-:blue_book: <strong><b>35)</b></strong> 
+:blue_book: <strong><b>35)</b></strong> Explain how to delete a file in Python?
 
-:blue_book: <strong><b>36)</b></strong> 
+:blue_book: <strong><b>36)</b></strong> Explain split() and join() functions in Python?
 
-:blue_book: <strong><b>37)</b></strong> 
+:blue_book: <strong><b>37)</b></strong> What does *args and **kwargs mean?
 
-:blue_book: <strong><b>38)</b></strong> 
+:blue_book: <strong><b>38)</b></strong> What are negative indexes and why are they used?
 
-:blue_book: <strong><b>39)</b></strong> 
+:blue_book: <strong><b>39)</b></strong> How do you create a class in Python?
 
-:blue_book: <strong><b>40)</b></strong> 
+:blue_book: <strong><b>40)</b></strong> How does inheritance work in python? Explain it with an example.
 
-:blue_book: <strong><b>41)</b></strong> 
+:blue_book: <strong><b>41)</b></strong> How do you access parent members in the child class?
 
-:blue_book: <strong><b>42)</b></strong> 
+:blue_book: <strong><b>42)</b></strong> Are access specifiers used in python?
 
-:blue_book: <strong><b>43)</b></strong> 
+:blue_book: <strong><b>43)</b></strong> Is it possible to call parent class without its instance creation?
 
-:blue_book: <strong><b>44)</b></strong> 
+:blue_book: <strong><b>44)</b></strong> How is an empty class created in python?
 
-:blue_book: <strong><b>45)</b></strong> 
+:blue_book: <strong><b>45)</b></strong> Differentiate between new and override modifiers.
 
-:blue_book: <strong><b>46)</b></strong> 
+:blue_book: <strong><b>46)</b></strong> Why is finalize used?
+
+:blue_book: <strong><b>47)</b></strong> What is init method in python?
 
 :blue_book: <strong><b>47)</b></strong> 
 
