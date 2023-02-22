@@ -177,17 +177,20 @@
 
 :blue_book: <strong><b>85)</b></strong> Write a program to check and return the pairs of a given array A whose sum value is equal to a target value N.
 
-:blue_book: <strong><b>86)</b></strong> 
+:blue_book: <strong><b>86)</b></strong> Write a Program to add two integers >0 without using the plus operator.
 
-:blue_book: <strong><b>87)</b></strong> 
+:blue_book: <strong><b>87)</b></strong> Write a Program to solve the given equation assuming that a,b,c,m,n,o are constants:
 
-:blue_book: <strong><b>88)</b></strong> 
+:blue_book: <strong><b>88)</b></strong> Write a Program to match a string that has the letter ‘a’ followed by 4 to 8 'b’s.
 
-:blue_book: <strong><b>89)</b></strong> 
+:blue_book: <strong><b>89)</b></strong> Write a Program to convert date from yyyy-mm-dd format to dd-mm-yyyy format.
 
-:blue_book: <strong><b>90)</b></strong> 
+:blue_book: <strong><b>90)</b></strong> Write a Program to combine two different dictionaries. While combining, if you find the same keys, you can add the values of these same keys. Output the new dictionary
 
-:blue_book: <strong><b>91)</b></strong> 
+:blue_book: <strong><b>91)</b></strong> How will you access the dataset of a publicly shared spreadsheet in CSV format stored in Google Drive?
+
+
+
 
 :blue_book: <strong><b>92)</b></strong> 
 
